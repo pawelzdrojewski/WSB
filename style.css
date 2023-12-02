@@ -6,3 +6,13 @@ header {
     padding: 20px;
     background-color: rgb(110, 209, 255);
 }
+h1{
+    color: brown;
+}
+h3{
+    color: blueviolet;
+}
+img{
+    border: 2px solid;
+    border-color: yellow;
+}
